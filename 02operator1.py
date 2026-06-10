@@ -18,7 +18,7 @@ print("x**y",x**y)
 
 # 거듭제곱의 반환
 print("pow(w,y)",pow(x,y))  
-
+     
 # x의 y승을 z로 나눔
 print("pow(x,u,z)",pow(x,y,z))
 
