@@ -1,0 +1,7 @@
+create table phonebook(
+  num INT NOT NULL AUTO_INCREMENT
+  name VATCHAR (20) NOT NULL,
+  addr  TEXT (100) NOT NULL,
+  phoneNo VARCHAR (100) NOT NULL
+PRIMARY KEY (num)
+);
